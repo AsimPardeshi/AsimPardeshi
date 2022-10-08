@@ -1,21 +1,16 @@
-### Hi there 👋
+### <h1 align="center">Hey 👋<h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="http://www.linkedin.com/in/asim-pardeshi-217496247">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/AsimPardeshi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=AsimPardeshi&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img align=" centre" alt="Coding" width="800" height="600" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<h1 align="center">I'm Asim Pardeshi</h1>
+<h3 align="center">Data Scientist & Data Analyst</h3>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AsimPardeshi&show_icons=true&locale=en&layout=compact" alt="AsimPardeshi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsimPardeshi&show_icons=true&locale=en" alt="AsimPardeshi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pardeshi&" alt="AsimPardeshi" /></p>
