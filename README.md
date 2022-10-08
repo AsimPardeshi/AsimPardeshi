@@ -1,9 +1,20 @@
-### <h1 align="center">Hey 👋<h1>
+### <h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><h1>
 
-  <img align=" centre" alt="Coding" width="800" height="600" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h1 align="center">I'm Asim Pardeshi</h1>
+<div id="badges">
+  <a href="https://www.kaggle.com/asimpardeshi">
+ <h1 align="center">   <img src="https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  </div>
+<div id="badges">
+  <a href="http://www.linkedin.com/in/asim-pardeshi-217496247">
+  <h1 align="center">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
 <h3 align="center">Data Scientist & Data Analyst</h3>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AsimPardeshi&show_icons=true&locale=en" alt="AsimPardeshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pardeshi&" alt="AsimPardeshi" /></p>
+
+<img src="https://komarev.com/ghpvc/?username=AsimPardeshi&style=flat-square&color=blue" alt=""/>
